@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Property · CasaLuxe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="index.html">Casa<b>Luxe</b></a>
+    <div class="spacer"></div>
+    <nav class="header-nav">
+      <button id="curToggle" class="cur-btn" title="Switch currency">EUR €</button>
+      <button id="heartBtn" class="icon-btn" title="Save">
+        <svg viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/></svg>
+      </button>
+      <a class="btn btn-outline" href="index.html">← Back to search</a>
+    </nav>
+  </div>
+</header>
+
+<div class="detail-wrap">
+  <div class="page-actions">
+    <button id="shareBtn" class="pa-btn">
+      <svg viewBox="0 0 24 24"><path d="M12 3v12m0-12l-4 4m4-4l4 4M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"/></svg>Share
+    </button>
+    <button id="saveBtn" class="pa-btn">
+      <svg viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/></svg><span>Save</span>
+    </button>
+  </div>
+
+  <div class="breadcrumb" id="breadcrumb"></div>
+
+  <div class="title-row">
+    <div>
+      <h1 id="title"></h1>
+      <div class="muted" id="subtitle"></div>
+    </div>
+    <div class="price-box">
+      <div class="price" id="price"></div>
+      <div class="drop-chip" id="dropChip" hidden></div>
+      <div class="muted small" id="ppsqm"></div>
+    </div>
+  </div>
+
+  <div class="gallery">
+    <div class="g-main" id="gMain">
+      <img id="gMainImg" alt="">
+      <button class="all-photos" id="allPhotos">⊞ Show all photos</button>
+    </div>
+    <div class="g-grid" id="gGrid"></div>
+  </div>
+
+  <div class="facts" id="facts"></div>
+
+  <div class="detail-cols">
+    <div class="col-main">
+      <section><h2>About the Property</h2><div id="description" class="prose"></div></section>
+      <section><h2>Features</h2><div id="features" class="features"></div></section>
+      <section><h2>Property Details</h2><div id="detailsTable" class="dtable"></div></section>
+      <section>
+        <h2>Explore the Area</h2>
+        <div id="areaMap" class="area-map"></div>
+        <div class="map-actions">
+          <button class="btn btn-primary" id="streetViewBtn">🌐 Street View</button>
+          <a class="btn btn-outline" id="gmapsLink" target="_blank" rel="noopener">Open in Google Maps ↗</a>
+        </div>
+      </section>
+    </div>
+
+    <aside class="col-side">
+      <div class="agent-card">
+        <div class="agent-head">
+          <div class="avatar" id="agentAvatar"></div>
+          <div>
+            <div class="agent-name" id="agentName"></div>
+            <div class="muted small" id="agentMeta"></div>
+          </div>
+        </div>
+        <a class="call-link" id="callBtn">
+          <svg viewBox="0 0 24 24"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3-8.7A2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 2 .7 2.8a2 2 0 0 1-.4 2.1L8.1 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.9.5 2.8.7A2 2 0 0 1 22 16.9z"/></svg>
+          Call Agent
+        </a>
+        <a class="call-link" id="emailBtn">
+          <svg viewBox="0 0 24 24"><path d="M4 4h16v16H4z"/><path d="M4 6l8 7 8-7"/></svg>
+          Email Agent
+        </a>
+        <div class="agent-langs" id="agentLangs"></div>
+        <p class="agent-bio muted small" id="agentBio" hidden></p>
+        <form id="contactForm" class="form">
+          <input class="field" id="cName" required placeholder="Your name">
+          <input class="field" id="cEmail" required type="email" placeholder="Your email address">
+          <div class="phone-row">
+            <select id="ccSel" class="cc-select">
+              <option value="+34" selected>🇪🇸 +34</option>
+              <option value="+971">🇦🇪 +971</option>
+              <option value="+44">🇬🇧 +44</option>
+              <option value="+1">🇺🇸 +1</option>
+              <option value="+33">🇫🇷 +33</option>
+              <option value="+49">🇩🇪 +49</option>
+            </select>
+            <input class="field" id="cTel" type="tel" placeholder="Phone number (optional)">
+          </div>
+          <label class="field-label" for="msgBox">Your message</label>
+          <textarea class="field" id="msgBox" rows="4"></textarea>
+          <button class="btn btn-primary" type="submit">Send message</button>
+          <label class="consent"><input type="checkbox" id="notifyChk" checked>
+            <span>Notify me via email when similar listings appear</span></label>
+          <label class="consent"><input type="checkbox" id="termsChk" checked>
+            <span>I agree to <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a></span></label>
+        </form>
+      </div>
+
+      <div class="agent-card">
+        <div class="agent-name">Mortgage Calculator</div>
+        <label class="field-label">Down payment: <b id="mDpLabel"></b></label>
+        <input type="range" id="mDp" min="0" max="80" step="5" value="20">
+        <div class="m-row">
+          <select id="mYears" class="select">
+            <option>5</option><option>10</option><option>15</option>
+            <option selected>20</option><option>25</option><option>30</option>
+          </select>
+          <label class="m-rate">Rate % <input id="mRate" type="number" step="0.1" value="3.5"></label>
+        </div>
+        <div class="m-out" id="mOut"></div>
+        <div class="muted small">Estimate only — not a financial offer.</div>
+      </div>
+    </aside>
+  </div>
+
+  <section id="similarSec" hidden>
+    <h2>Similar Properties</h2>
+    <div id="similar" class="cards"></div>
+  </section>
+</div>
+
+<div class="lightbox" id="lightbox">
+  <div class="lb-count" id="lbCount"></div>
+  <button class="lb-close" id="lbClose">✕</button>
+  <button class="lb-nav lb-prev" id="lbPrev">❮</button>
+  <img id="lbImg" alt="">
+  <button class="lb-nav lb-next" id="lbNext">❯</button>
+</div>
+
+<div class="modal" id="svModal">
+  <div class="modal-box">
+    <button class="lb-close" id="svClose">✕</button>
+    <iframe id="svFrame" allowfullscreen></iframe>
+  </div>
+</div>
+
+<footer class="site-footer">© 2026 CasaLuxe · Demo data from Fotocasa</footer>
+<div id="toast" class="toast"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/common.js"></script>
+<script src="js/detail.js"></script>
+</body>
+</html>

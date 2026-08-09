@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CasaLuxe — Luxury homes for sale in Spain</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="index.html">Casa<b>Luxe</b></a>
+    <div class="search-wrap">
+      <svg viewBox="0 0 24 24"><path d="M21 21l-4.35-4.35M17 11a6 6 0 1 1-12 0 6 6 0 0 1 12 0z"/></svg>
+      <input id="searchInput" placeholder="Search by city, province or keyword…">
+    </div>
+    <nav class="header-nav">
+      <button id="curToggle" class="cur-btn" title="Switch currency">EUR €</button>
+      <button id="favLink" class="icon-btn" title="Show saved properties">
+        <svg viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/></svg>
+        <span id="favCount" class="fav-count">0</span>
+      </button>
+      <button class="btn btn-outline">Log in</button>
+    </nav>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="toolbar-inner">
+    <select id="fType" class="select"><option value="">Type: Any</option></select>
+    <select id="fPrice" class="select">
+      <option value="">Price: Any</option>
+      <option value="0-200000">Up to €200k</option>
+      <option value="200000-400000">€200k – €400k</option>
+      <option value="400000-600000">€400k – €600k</option>
+      <option value="600000-1000000">€600k – €1M</option>
+      <option value="1000000-">€1M +</option>
+    </select>
+    <select id="fBeds" class="select">
+      <option value="">Beds: Any</option>
+      <option value="2">2+ beds</option><option value="3">3+ beds</option>
+      <option value="4">4+ beds</option><option value="5">5+ beds</option>
+    </select>
+    <div class="dropdown" id="amenDrop">
+      <button class="select drop-btn" id="amenBtn">Amenities ▾</button>
+      <div class="menu" id="amenMenu"></div>
+    </div>
+    <button id="resetFilters" class="linklike">Reset</button>
+    <div class="spacer"></div>
+    <select id="fSort" class="select">
+      <option value="featured">Sort: Featured</option>
+      <option value="price-asc">Price: Low → High</option>
+      <option value="price-desc">Price: High → Low</option>
+      <option value="newest">Newest</option>
+      <option value="largest">Largest</option>
+    </select>
+    <div class="view-toggle">
+      <button id="viewGrid" class="active" title="Grid view">
+        <svg viewBox="0 0 24 24"><path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z"/></svg>
+      </button>
+      <button id="viewMap" title="Map view">
+        <svg viewBox="0 0 24 24"><path d="M9 4L4 6v14l5-2 6 2 5-2V4l-5 2-6-2zM9 4v14M15 6v14"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="content" id="content">
+  <main class="list-col">
+    <div class="results-meta"><span id="countLabel"></span></div>
+    <section id="cards" class="cards"></section>
+    <div id="empty" class="empty" hidden>
+      <p>No properties match your search.</p>
+      <button class="btn btn-primary" onclick="location.reload()">Clear filters</button>
+    </div>
+  </main>
+  <aside class="map-pane"><div id="map"></div></aside>
+</div>
+
+<button id="showMapFab" class="fab">
+  <svg viewBox="0 0 24 24"><path d="M9 4L4 6v14l5-2 6 2 5-2V4l-5 2-6-2zM9 4v14M15 6v14"/></svg>
+  Show map
+</button>
+
+<footer class="site-footer">© 2026 CasaLuxe · Demo data from Fotocasa</footer>
+<div id="toast" class="toast"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="js/common.js"></script>
+<script src="js/home.js"></script>
+</body>
+</html>
