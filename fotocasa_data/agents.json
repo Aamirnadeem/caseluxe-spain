@@ -1,0 +1,19 @@
+{
+  "by_publisher_id": {
+    "9202751685602": {
+      "photo": "fotocasa_data/agents/grup90.jpg",
+      "email": "info@grup90.es",
+      "joined": "2019-05-01",
+      "languages": ["Spanish", "Catalan", "English"],
+      "bio": "Boutique agency in Lleida since 2005."
+    }
+  },
+  "by_property_id": {
+    "189894155": { "name": "Maria Vidal", "phone": "+34600111222", "email": "maria@casaluxe.example" }
+  },
+  "default": {
+    "name": "CasaLuxe Concierge",
+    "phone": "+34900000000",
+    "email": "concierge@casaluxe.example"
+  }
+}

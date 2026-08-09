@@ -1,0 +1,129 @@
+{
+  "scraped_at": "2026-08-09T12:27:31.119785",
+  "source_url": "https://www.fotocasa.es/en/buy/home/alcarras/patio-furnished/163392523/d",
+  "property_data": {
+    "property_id": 163392523,
+    "reference": null,
+    "creation_date": "2022-05-03T13:44:55.383",
+    "transaction_type": 1,
+    "price": 105000,
+    "price_drop": 0,
+    "has_price_drop": false,
+    "address": {
+      "street": "N-2",
+      "number": 455,
+      "city": null,
+      "district": "Alcarràs, Zona de ",
+      "neighbourhood": null,
+      "province": "Lleida",
+      "region": "Segrià ",
+      "country": "España",
+      "zip_code": "25180",
+      "coordinates": {
+        "lat": 41.5744499,
+        "lng": 0.5554396
+      },
+      "is_exact": true
+    },
+    "property_type": "HOUSE_CHALET",
+    "occupancy_status": "IS_AVAILABLE",
+    "hot_water": null,
+    "heating": null,
+    "condition": "GOOD",
+    "age": null,
+    "parking": null,
+    "has_elevator": false,
+    "is_furnished": true,
+    "energy_rating": "G",
+    "energy_value": 566,
+    "emissions_rating": "G",
+    "emissions_value": 111,
+    "rooms": 6,
+    "bathrooms": 1,
+    "surface": 218,
+    "surface_land": 350,
+    "floor": 0,
+    "extras": [
+      "Gres cerámica",
+      "Patio",
+      "Furnished",
+      "Oven",
+      "Fully equipped kitchen"
+    ],
+    "description_original": "Casa de dos plantas de unos 220 m2, con almacén anejo de 230 m2.\r\nLa vivienda distribuida en:\r\nPlanta baja con salón comedor con chimenea, amplia cocina equipada y baño completo, todo ello en muy buen estado. \r\nPlanta primera: 6 habitaciones, a reformar (requiere reparación de cubierta).\r\nVigas de madera vistas y sólida estructura.\r\nLa superficie del almacén anejo es de 230 m2 y 6 m de altura. Incluye una cámara frigorífica de 15 m2.\r\nOpcionalmente, existe una finca de 2,3 Ha. en la que en su mitad está plantada de árboles frutales (perales, manzanos, etc..), con sistema de riego automático. Valorada en 75.000 €.\r\nTodo ello situado muy cerca de Alcarrás, a un km. del núcleo. ",
+    "description": "Two-story house of about 220 m2, with an attached warehouse of 230 m2.\r\nThe house distributed in:\r\nGround floor with living room with fireplace, large equipped kitchen and bathroom, all in very good condition. \r\nFirst floor: 6 rooms, to be renovated (requires roof repair).\r\nExposed wooden beams and solid structure.\r\nThe surface of the attached warehouse is 230 m2 and 6 m high. Includes a 15 m2 cold room.\r\nOptionally, there is a 2.3 Ha farm, half of which is planted with fruit trees (pear trees, apple trees, etc.), with an automatic irrigation system. Valued at €75,000.\r\nAll of this located very close to Alcarrás, one km. of the core.",
+    "images": [
+      "https://static.fotocasa.es/images/ads/0b9db49b-1c76-497d-b71f-aa40a62bab89?rule=original",
+      "https://static.fotocasa.es/images/ads/689b714b-0d66-4e2d-b9ed-0b0589b35b05?rule=original",
+      "https://static.fotocasa.es/images/ads/9642954b-1e0d-4b88-8262-1bdd1956d090?rule=original",
+      "https://static.fotocasa.es/images/ads/2749a027-f685-4153-b946-db2c68292aaf?rule=original",
+      "https://static.fotocasa.es/images/ads/12fbc8d1-bd6c-4290-aeed-761f0fd60560?rule=original",
+      "https://static.fotocasa.es/images/ads/47e0ad87-35c9-427b-af58-6a9f453ac3df?rule=original",
+      "https://static.fotocasa.es/images/ads/526b52fd-8136-4a3a-8b96-f1e201ece83c?rule=original",
+      "https://static.fotocasa.es/images/ads/03190627-e6aa-4a3f-aeb6-18bf09edaf3d?rule=original",
+      "https://static.fotocasa.es/images/ads/5841e843-0773-41af-b371-57eaf7529b0c?rule=original",
+      "https://static.fotocasa.es/images/ads/8afeec88-bfb6-4789-8e1c-639c4cd29714?rule=original",
+      "https://static.fotocasa.es/images/ads/bad90081-2e34-408a-82c6-5db8ff4eaf9d?rule=original",
+      "https://static.fotocasa.es/images/ads/88543205-4291-4144-87ef-5c551d5bb2a9?rule=original",
+      "https://static.fotocasa.es/images/ads/f80268ba-e679-4146-8811-09ff5dde511a?rule=original",
+      "https://static.fotocasa.es/images/ads/b9c62b0e-3584-4149-a32e-4b3b945c5247?rule=original",
+      "https://static.fotocasa.es/images/ads/3640848c-fa8e-459e-af39-38773aca88df?rule=original",
+      "https://static.fotocasa.es/images/ads/632d9a25-d740-4ddf-ac66-7b4df25852d8?rule=original"
+    ],
+    "total_images": 16,
+    "publisher": {
+      "name": "Living Lleida Equip Immobiliari, Sociedad Limitada",
+      "alias": "LIVING LLEIDA",
+      "id": 9202753712356,
+      "phone": "973973263",
+      "reference": "V1199",
+      "logo": "https://static.fotocasa.es/images/client/4a8194b3-e3c6-423e-97f4-3005f16344bb/20250320151305?rule=original",
+      "url": "/en/real-estate-agency-living-lleida/buy/homes/espana/all-zones/l?clientId=9202753712356&publisherId=4a8194b3-e3c6-423e-97f4-3005f16344bb",
+      "type": "professional"
+    },
+    "agency": {
+      "name": "Living Lleida Equip Immobiliari, Sociedad Limitada",
+      "alias": "LIVING LLEIDA",
+      "id": "9202753712356",
+      "logo": "https://static.fotocasa.es/images/client/4a8194b3-e3c6-423e-97f4-3005f16344bb/20250320151305?rule=original",
+      "type": "professional"
+    },
+    "language_urls": {
+      "es_ES": "/es/comprar/vivienda/alcarras/patio-amueblado/163392523/d",
+      "en_US": "/en/buy/home/alcarras/patio-furnished/163392523/d",
+      "ca_ES": "/ca/comprar/vivenda/alcarras/pati-moblat/163392523/d",
+      "de_DE": "/de/kaufen/wohnimmobilie/alcarras/innenhof-mobliert/163392523/d"
+    },
+    "breadcrumb": [
+      "Lleida",
+      "Segrià",
+      "Alcarràs"
+    ],
+    "description_translated": "Two-story house of about 220 m2, with an attached warehouse of 230 m2.\r\nThe house distributed in:\r\nGround floor with living room with fireplace, large equipped kitchen and bathroom, all in very good condition. \r\nFirst floor: 6 rooms, to be renovated (requires roof repair).\r\nExposed wooden beams and solid structure.\r\nThe surface of the attached warehouse is 230 m2 and 6 m high. Includes a 15 m2 cold room.\r\nOptionally, there is a 2.3 Ha farm, half of which is planted with fruit trees (pear trees, apple trees, etc.), with an automatic irrigation system. Valued at €75,000.\r\nAll of this located very close to Alcarrás, one km. of the core.",
+    "extras_original": [
+      "Gres cerámica",
+      "Patio",
+      "Amueblado",
+      "Horno",
+      "Cocina Equipada"
+    ],
+    "downloaded_images": [
+      "images\\property_163392523\\image_001.webp",
+      "images\\property_163392523\\image_002.webp",
+      "images\\property_163392523\\image_003.webp",
+      "images\\property_163392523\\image_004.webp",
+      "images\\property_163392523\\image_005.webp",
+      "images\\property_163392523\\image_006.webp",
+      "images\\property_163392523\\image_007.webp",
+      "images\\property_163392523\\image_008.webp",
+      "images\\property_163392523\\image_009.webp",
+      "images\\property_163392523\\image_010.webp",
+      "images\\property_163392523\\image_011.webp",
+      "images\\property_163392523\\image_012.webp",
+      "images\\property_163392523\\image_013.webp",
+      "images\\property_163392523\\image_014.webp",
+      "images\\property_163392523\\image_015.webp",
+      "images\\property_163392523\\image_016.webp"
+    ]
+  }
+}

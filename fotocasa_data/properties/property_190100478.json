@@ -1,0 +1,131 @@
+{
+  "scraped_at": "2026-08-09T12:27:44.922421",
+  "source_url": "https://www.fotocasa.es/en/buy/home/alcarras/parking-terrace-box-room-lift/190100478/d",
+  "property_data": {
+    "property_id": 190100478,
+    "reference": null,
+    "creation_date": "2026-06-29T21:35:16.697",
+    "transaction_type": 1,
+    "price": 245580,
+    "price_drop": 0,
+    "has_price_drop": false,
+    "address": {
+      "street": "Calle Devesa",
+      "number": 0,
+      "city": null,
+      "district": "Alcarràs, Zona de ",
+      "neighbourhood": null,
+      "province": "Lleida",
+      "region": "Segrià ",
+      "country": "España",
+      "zip_code": "25180",
+      "coordinates": {
+        "lat": 41.5666352889045,
+        "lng": 0.5164890619291403
+      },
+      "is_exact": false
+    },
+    "property_type": "DUPLEX",
+    "occupancy_status": "IS_AVAILABLE",
+    "hot_water": null,
+    "heating": null,
+    "condition": "ALMOST_NEW",
+    "age": null,
+    "parking": "PRIVATE",
+    "has_elevator": true,
+    "is_furnished": false,
+    "energy_rating": "G",
+    "energy_value": 999,
+    "emissions_rating": "G",
+    "emissions_value": 999,
+    "rooms": 3,
+    "bathrooms": 3,
+    "surface": 214,
+    "surface_land": 0,
+    "floor": 8,
+    "extras": [
+      "Private garage",
+      "Gres cerámica",
+      "Terrace",
+      "Box room / Storage room",
+      "Lift / Elevator",
+      "Fully equipped kitchen"
+    ],
+    "description_original": "Te presentamos este exclusivo dúplex de obra nueva en venta, una vivienda moderna, amplia y muy luminosa, con una superficie construida de 214 m² ( 118 m² vivienda ) , diseñada para ofrecer el máximo confort y una excelente distribución de los espacios.\n\nLa vivienda dispone de 99 m² útiles distribuidos en dos plantas, ambas con acceso directo mediante ascensor.\n\nEn la planta superior encontramos la zona de día, con una superficie útil de 56 m². Dispone de una amplia cocina americana abierta al salón comedor, con salida directa a una espectacular terraza esquinera de 88 m², ideal para disfrutar del aire libre. En esta planta también encontramos un baño completo con ducha y aire acondicionado.\n\nLa planta inferior, destinada a la zona de noche, cuenta con 62 m² útiles. Dispone de una habitación doble tipo suite con baño privado con ducha y salida a un balcón, además de dos habitaciones adicionales y un segundo baño completo con ducha.\n\nEl precio de venta incluye una plaza de garaje y un trastero.\n\nEsta vivienda forma parte de una nueva promoción en la que iremos publicando más viviendas próximamente. Si estás buscando obra nueva, te recomendamos contactar con Grup Badia para mantenerte informado de todas las viviendas que vayan saliendo a la venta y recibir toda la información antes que nadie.\n\nAl precio de venta hay que añadir el IVA reducido del 10%, el ITP reducido, así como los gastos de notaría y registro. Para conocer exactamente los impuestos aplicables y los gastos de la compraventa según tu situación, te recomendamos informarte directamente con Grup Badia.\n\nPara más información o concertar una visita, contacta con Grup Badia al 📞 973 791 572.\n\nEste anuncio tiene fines exclusivamente informativos y publicitarios. Los datos, características y precio se muestran de manera orientativa y pueden contener errores u omisiones, o sufrir modificaciones. Se recomienda consultar directamente con Grup Badia para confirmar la disponibilidad actual del inmueble y verificar toda la información de forma precisa y actualizada.\n",
+    "description": "We present this exclusive new construction duplex for sale, a modern, spacious and very bright home, with a constructed area of ​​214 m² (118 m² housing), designed to offer maximum comfort and an excellent distribution of spaces.\n\nThe house has 99 m² useful distributed over two floors, both with direct access by elevator.\n\nOn the upper floor we find the day area, with a useful area of ​​56 m². It has a large American kitchen open to the living room, with direct access to a spectacular 88 m² corner terrace, ideal for enjoying the outdoors. On this floor we also find a full bathroom with a shower and air conditioning.\n\nThe lower floor, intended for the night area, has 62 useful m². It has a suite-type double room with a private bathroom with shower and access to a balcony, as well as two additional bedrooms and a second full bathroom with shower.\n\nThe sale price includes a garage space and a storage room.\n\nThis home is part of a new promotion in which we will be publishing more homes soon. If you are looking for new construction, we recommend you contact Grup Badia to stay informed of all the homes that are coming up for sale and receive all the information before anyone else.\n\nTo the sale price must be added the reduced VAT of 10%, the reduced ITP, as well as notary and registration fees. To know exactly the applicable taxes and purchase and sale expenses according to your situation, we recommend that you contact Grup Badia directly.\n\nFor more information or to arrange a visit, contact Grup Badia at 📞 973 791 572.\n\nThis advertisement is for informational and advertising purposes only. The data, characteristics and price are shown as a guide and may contain errors or omissions, or may be modified. It is recommended to consult directly with Grup Badia to confirm the current availability of the property and verify all information accurately and up-to-date.",
+    "images": [
+      "https://static.fotocasa.es/images/ads/4aa30f32-12f4-4be4-b4ab-4d125a99fb6c?rule=original",
+      "https://static.fotocasa.es/images/ads/a607a35b-dcea-43b7-955f-dbeea819d928?rule=original",
+      "https://static.fotocasa.es/images/ads/58a77439-3138-4954-8d73-7aa2b91bc9b8?rule=original",
+      "https://static.fotocasa.es/images/ads/f5a63054-cbb5-461e-a1e4-496f88ce2cb7?rule=original",
+      "https://static.fotocasa.es/images/ads/5d22ff75-1567-4df3-bef4-48bfb5d2f6ba?rule=original",
+      "https://static.fotocasa.es/images/ads/2f21e449-8579-4591-97ff-d17358d6d354?rule=original",
+      "https://static.fotocasa.es/images/ads/0364bb25-7e54-4741-b182-5d54b1ef42ac?rule=original",
+      "https://static.fotocasa.es/images/ads/2924e560-3e49-441c-848c-5c7214dbaac3?rule=original",
+      "https://static.fotocasa.es/images/ads/0220687a-af9e-431c-ad62-213e01156ea4?rule=original",
+      "https://static.fotocasa.es/images/ads/97483ecc-4256-466d-b43c-39010e7d2136?rule=original",
+      "https://static.fotocasa.es/images/ads/a5f5bbf6-92f3-4c05-baf4-6669ad2a7b16?rule=original",
+      "https://static.fotocasa.es/images/ads/d21ba206-438e-4b62-b973-34b5dc462a0e?rule=original",
+      "https://static.fotocasa.es/images/ads/4631cf8c-655d-4901-80fb-38821729ad43?rule=original",
+      "https://static.fotocasa.es/images/ads/b82a18cf-1864-415a-aaec-758724aa03e0?rule=original",
+      "https://static.fotocasa.es/images/ads/a44bb4ff-6de6-4834-b74c-2e27b0c864a9?rule=original",
+      "https://static.fotocasa.es/images/ads/f8277a53-5253-41a8-88a5-20ea03f6bda7?rule=original"
+    ],
+    "total_images": 16,
+    "publisher": {
+      "name": "IMMO BADIA SLU",
+      "alias": "GRUP BADIA",
+      "id": 9202751821500,
+      "phone": "+34973791572",
+      "reference": "020771",
+      "logo": "https://static.fotocasa.es/images/client/9202751821500/500317.jpg?rule=original",
+      "url": "/en/real-estate-agency-grup-badia/buy/homes/espana/all-zones/l?clientId=9202751821500&publisherId=f5e40182-4764-4a68-9db2-bd97b78d3cb5",
+      "type": "professional"
+    },
+    "agency": {
+      "name": "IMMO BADIA SLU",
+      "alias": "GRUP BADIA",
+      "id": "9202751821500",
+      "logo": "https://static.fotocasa.es/images/client/9202751821500/500317.jpg?rule=original",
+      "type": "professional"
+    },
+    "language_urls": {
+      "es_ES": "/es/comprar/vivienda/alcarras/parking-terraza-trastero-ascensor/190100478/d",
+      "en_US": "/en/buy/home/alcarras/parking-terrace-box-room-lift/190100478/d",
+      "ca_ES": "/ca/comprar/vivenda/alcarras/parking-terrassa-traster-ascensor/190100478/d",
+      "de_DE": "/de/kaufen/wohnimmobilie/alcarras/parking-terrasse-abstellraum-fahrstuhl/190100478/d"
+    },
+    "breadcrumb": [
+      "Lleida",
+      "Segrià",
+      "Alcarràs"
+    ],
+    "description_translated": "We present this exclusive new construction duplex for sale, a modern, spacious and very bright home, with a constructed area of ​​214 m² (118 m² housing), designed to offer maximum comfort and an excellent distribution of spaces.\n\nThe house has 99 m² useful distributed over two floors, both with direct access by elevator.\n\nOn the upper floor we find the day area, with a useful area of ​​56 m². It has a large American kitchen open to the living room, with direct access to a spectacular 88 m² corner terrace, ideal for enjoying the outdoors. On this floor we also find a full bathroom with a shower and air conditioning.\n\nThe lower floor, intended for the night area, has 62 useful m². It has a suite-type double room with a private bathroom with shower and access to a balcony, as well as two additional bedrooms and a second full bathroom with shower.\n\nThe sale price includes a garage space and a storage room.\n\nThis home is part of a new promotion in which we will be publishing more homes soon. If you are looking for new construction, we recommend you contact Grup Badia to stay informed of all the homes that are coming up for sale and receive all the information before anyone else.\n\nTo the sale price must be added the reduced VAT of 10%, the reduced ITP, as well as notary and registration fees. To know exactly the applicable taxes and purchase and sale expenses according to your situation, we recommend that you contact Grup Badia directly.\n\nFor more information or to arrange a visit, contact Grup Badia at 📞 973 791 572.\n\nThis advertisement is for informational and advertising purposes only. The data, characteristics and price are shown as a guide and may contain errors or omissions, or may be modified. It is recommended to consult directly with Grup Badia to confirm the current availability of the property and verify all information accurately and up-to-date.",
+    "extras_original": [
+      "Garaje privado",
+      "Gres cerámica",
+      "Terraza",
+      "Trastero",
+      "Ascensor",
+      "Cocina Equipada"
+    ],
+    "downloaded_images": [
+      "images\\property_190100478\\image_001.webp",
+      "images\\property_190100478\\image_002.webp",
+      "images\\property_190100478\\image_003.webp",
+      "images\\property_190100478\\image_004.webp",
+      "images\\property_190100478\\image_005.webp",
+      "images\\property_190100478\\image_006.webp",
+      "images\\property_190100478\\image_007.webp",
+      "images\\property_190100478\\image_008.webp",
+      "images\\property_190100478\\image_009.webp",
+      "images\\property_190100478\\image_010.webp",
+      "images\\property_190100478\\image_011.webp",
+      "images\\property_190100478\\image_012.webp",
+      "images\\property_190100478\\image_013.webp",
+      "images\\property_190100478\\image_014.webp",
+      "images\\property_190100478\\image_015.webp",
+      "images\\property_190100478\\image_016.webp"
+    ]
+  }
+}

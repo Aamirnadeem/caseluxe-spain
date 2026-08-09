@@ -1,0 +1,113 @@
+{
+  "scraped_at": "2026-08-09T03:18:12.208004",
+  "source_url": "https://www.fotocasa.es/en/buy/home/el-palau-d-anglesola/air-conditioning-heating-parking-terrace-box-room/189894155/d",
+  "property_data": {
+    "property_id": 189894155,
+    "reference": null,
+    "creation_date": "2026-06-05T13:07:06.787",
+    "transaction_type": 1,
+    "price": 129000,
+    "price_drop": 0,
+    "has_price_drop": false,
+    "address": {
+      "street": null,
+      "number": 0,
+      "city": null,
+      "district": null,
+      "neighbourhood": null,
+      "province": "Lleida",
+      "region": "Pla d'Urgell",
+      "country": "España",
+      "zip_code": "25243",
+      "coordinates": {
+        "lat": 41.65260570284488,
+        "lng": 0.8779784511522715
+      },
+      "is_exact": false
+    },
+    "property_type": "HOUSE_CHALET",
+    "occupancy_status": "IS_AVAILABLE",
+    "hot_water": "GASOIL",
+    "heating": null,
+    "condition": "GOOD",
+    "age": "BETWEEN_70_AND_100_YEARS",
+    "parking": "PRIVATE",
+    "has_elevator": false,
+    "is_furnished": false,
+    "energy_rating": "G",
+    "energy_value": 999,
+    "emissions_rating": "G",
+    "emissions_value": 999,
+    "rooms": 4,
+    "bathrooms": 1,
+    "surface": 330,
+    "surface_land": 135,
+    "floor": 0,
+    "extras": [
+      "Air conditioning",
+      "Cupboards / Wardrobes",
+      "Heating",
+      "Private garage",
+      "Terrace",
+      "Box room / Storage room"
+    ],
+    "description_original": "vivienda de 4 habitaciones, planta baja con almacen para varios vehiculos y bodega. Acceso con vehiculo. Planta Primera, acceso por otra calle a pie plano, esta planta es de salas, trasteros y almacenes, por lo que se podria hacer una sala de eventos, o un uso de oficinas, o trasteros simplemente. Hay un lavabo. En la primera planta esta la vivienda de 3 habitaciones, baño, cocina y comedor con salida a terraza, con vistas a zona verde. En la planta bajo cubierta hay un dormitorio abohardillado y una sala con trastero. Galeria cubierta con chimenea en la terraza.\r\nEsta propiedad se tiene que modificar la superficie en catastro e inscribir la obra nueva realizada, este proceso puede durar entre 6 y 8 meses aproximadamente, por lo que si usted necesita hipoteca, se tendria que tramitar a principios de 2027. (o adquirir la propiedad sin modificar las superficies, aunque se aconseja lo contrario)",
+    "description": "4-bedroom house, ground floor with storage for several vehicles and cellar. Access by vehicle. First Floor, access from another street on a flat foot, this floor is for rooms, storage rooms and warehouses, so it could be made an event room, or used as offices, or simply storage rooms. There is a sink. On the first floor is the house with 3 bedrooms, bathroom, kitchen and dining room with access to a terrace, with views of the green area. On the ground floor there is a sloping bedroom and a living room with a storage room. Covered gallery with fireplace on the terrace.\r\nThis property has to modify the surface in the cadastre and register the new work carried out, this process can last between 6 and 8 months approximately, so if you need a mortgage, it would have to be processed at the beginning of 2027. (or acquire the property without modifying the surfaces, although the opposite is advised)",
+    "images": [
+      "https://static.fotocasa.es/images/ads/0bfa4876-2072-44de-96b5-74f0f39f55d1?rule=original",
+      "https://static.fotocasa.es/images/ads/67e47f6d-d18d-4bc0-8b4d-6a14215ce8f8?rule=original",
+      "https://static.fotocasa.es/images/ads/e5763079-0dfd-498d-a269-76632145a11f?rule=original",
+      "https://static.fotocasa.es/images/ads/bab88a0f-054e-4b37-951e-28a9253158c3?rule=original",
+      "https://static.fotocasa.es/images/ads/810c214f-518b-471e-9d98-264845121a84?rule=original",
+      "https://static.fotocasa.es/images/ads/f4ad2339-a8b7-40cd-ba4f-e078c614f937?rule=original",
+      "https://static.fotocasa.es/images/ads/5ccb0a20-5b26-457f-82d0-832f5a5d16db?rule=original"
+    ],
+    "total_images": 7,
+    "publisher": {
+      "name": "PEREZ MESAS, JOSE",
+      "alias": "J PEREZ GESTIO IMMOBILIARIA",
+      "id": 9202762446738,
+      "phone": "+34659406775",
+      "reference": "358",
+      "logo": "https://static.fotocasa.es/images/client/9202762446738/488573.jpg?rule=original",
+      "url": "/en/real-estate-agency-j-perez-gestio-immobiliaria/buy/homes/espana/all-zones/l?clientId=9202762446738&publisherId=9e511306-2a01-407a-ac82-190014cf82c8",
+      "type": "professional"
+    },
+    "agency": {
+      "name": "PEREZ MESAS, JOSE",
+      "alias": "J PEREZ GESTIO IMMOBILIARIA",
+      "id": "9202762446738",
+      "logo": "https://static.fotocasa.es/images/client/9202762446738/488573.jpg?rule=original",
+      "type": "professional"
+    },
+    "language_urls": {
+      "es_ES": "/es/comprar/vivienda/el-palau-d-anglesola/aire-acondicionado-calefaccion-parking-terraza-trastero/189894155/d",
+      "en_US": "/en/buy/home/el-palau-d-anglesola/air-conditioning-heating-parking-terrace-box-room/189894155/d",
+      "ca_ES": "/ca/comprar/vivenda/el-palau-d-anglesola/aire-condicionat-calefaccio-parking-terrassa-traster/189894155/d",
+      "de_DE": "/de/kaufen/wohnimmobilie/el-palau-d-anglesola/aire-acondicionado-heizung-parking-terrasse-abstellraum/189894155/d"
+    },
+    "breadcrumb": [
+      "Lleida",
+      "Pla d'Urgell",
+      "El Palau d'Anglesola"
+    ],
+    "description_translated": "4-bedroom house, ground floor with storage for several vehicles and cellar. Access by vehicle. First Floor, access from another street on a flat foot, this floor is for rooms, storage rooms and warehouses, so it could be made an event room, or used as offices, or simply storage rooms. There is a sink. On the first floor is the house with 3 bedrooms, bathroom, kitchen and dining room with access to a terrace, with views of the green area. On the ground floor there is a sloping bedroom and a living room with a storage room. Covered gallery with fireplace on the terrace.\r\nThis property has to modify the surface in the cadastre and register the new work carried out, this process can last between 6 and 8 months approximately, so if you need a mortgage, it would have to be processed at the beginning of 2027. (or acquire the property without modifying the surfaces, although the opposite is advised)",
+    "extras_original": [
+      "Aire acondicionado",
+      "Armarios",
+      "Calefacción",
+      "Garaje privado",
+      "Terraza",
+      "Trastero"
+    ],
+    "downloaded_images": [
+      "images\\property_189894155\\image_001.webp",
+      "images\\property_189894155\\image_002.webp",
+      "images\\property_189894155\\image_003.webp",
+      "images\\property_189894155\\image_004.webp",
+      "images\\property_189894155\\image_005.webp",
+      "images\\property_189894155\\image_006.webp",
+      "images\\property_189894155\\image_007.webp"
+    ]
+  }
+}

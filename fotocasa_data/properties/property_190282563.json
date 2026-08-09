@@ -1,0 +1,130 @@
+{
+  "scraped_at": "2026-08-09T03:19:08.489120",
+  "source_url": "https://www.fotocasa.es/en/buy/home/lleida-capital/lift/190282563/d",
+  "property_data": {
+    "property_id": 190282563,
+    "reference": null,
+    "creation_date": "2026-07-21T08:16:27.407",
+    "transaction_type": 1,
+    "price": 93500,
+    "price_drop": 0,
+    "has_price_drop": false,
+    "address": {
+      "street": " LES GARRIGUES",
+      "number": 0,
+      "city": "Cappont",
+      "district": "Lleida, Zona de",
+      "neighbourhood": null,
+      "province": "Lleida",
+      "region": "Segrià ",
+      "country": "España",
+      "zip_code": "25001",
+      "coordinates": {
+        "lat": 41.61003064892578,
+        "lng": 0.6341399150263043
+      },
+      "is_exact": false
+    },
+    "property_type": "GROUNDFLOORWITHGARDEN",
+    "occupancy_status": "IS_AVAILABLE",
+    "hot_water": "GAS_NATURAL",
+    "heating": null,
+    "condition": "FOR_RENOVATION",
+    "age": "BETWEEN_50_AND_70_YEARS",
+    "parking": null,
+    "has_elevator": true,
+    "is_furnished": false,
+    "energy_rating": null,
+    "energy_value": 0,
+    "emissions_rating": null,
+    "emissions_value": 0,
+    "rooms": 3,
+    "bathrooms": 1,
+    "surface": 82,
+    "surface_land": 0,
+    "floor": 3,
+    "extras": [
+      "Lift / Elevator",
+      "Balcony"
+    ],
+    "description_original": "🏡 Oportunidad piso a reformar en el corazón de Cappont\n\n¿Buscas una vivienda para reformar a tu gusto o una excelente oportunidad de inversión? Este piso, situado en una de las zonas más demandadas de Lleida, tiene un enorme potencial para convertirse en un hogar único.\n\nUbicado en pleno Cappont, la vivienda necesita una reforma integral, lo que te permitirá diseñar y personalizar cada espacio según tus necesidades y estilo.\n\n✨ Distribución\n\n✅ Salón-comedor con salida a un balcón.\n\n✅ Cocina independiente.\n\n✅ 3 dormitorios.\n\n✅ 1 baño completo.\n\n✅ Práctica despensa independiente.\n\n🌟 ¿Por qué destaca esta vivienda?\n\n✔️ Totalmente exterior, con una excelente entrada de luz natural.\n\n✔️ Techos altos que aportan amplitud y personalidad.\n\n✔️ Gran potencial de reforma para crear una vivienda moderna y funcional.\n\n✔️ Ubicación privilegiada, en pleno corazón de Cappont.\n\n📍 Una ubicación para disfrutar\n\nA pocos minutos de la universidad, rodeado de supermercados, colegios, comercios, zonas verdes y transporte público. Una zona consolidada que ofrece todos los servicios necesarios para el día a día.\n\n💡 Ideal tanto para inversores como para quienes desean crear la vivienda de sus sueños desde cero a un precio muy competitivo.\n\n📞 Contacta con nosotros para recibir más información o concertar una visita. Descubre todo el potencial que esconde esta vivienda.\nUbicación: La vivienda se encuentra en Lleida. Estado del inmueble: A reformar. Superficie construida: 82 m2. Superficie útil: 71 m2. Referencia del certificado energético: exento. El precio total de la venta es de 93.500 € (impuestos y gastos no incluidos). ITP: tipo vigente. Gastos notariales y registrales según arancel. Registro AICAT: 3026. Núm. API: 17.621/191. Condición de gran tenedor del propietario: NO.",
+    "description": "🏡 Apartment opportunity to renovate in the heart of Cappont\n\nAre you looking for a home to renovate to your liking or an excellent investment opportunity? This apartment, located in one of the most sought-after areas of Lleida, has enormous potential to become a unique home.\n\nLocated in the heart of Cappont, the home needs a comprehensive renovation, which will allow you to design and personalize each space according to your needs and style.\n\n✨ Distribution\n\n✅ Living room with access to a balcony.\n\n✅ Independent kitchen.\n\n✅ 3 bedrooms.\n\n✅ 1 full bathroom.\n\n✅ Practical independent pantry.\n\n🌟 Why does this home stand out?\n\n✔️ Completely exterior, with an excellent entry of natural light.\n\n✔️ High ceilings that provide spaciousness and personality.\n\n✔️ Great renovation potential to create a modern and functional home.\n\n✔️ Privileged location, in the heart of Cappont.\n\n📍 A location to enjoy\n\nA few minutes from the university, surrounded by supermarkets, schools, shops, green areas and public transport. A consolidated area that offers all the necessary services for daily life.\n\n💡 Ideal for both investors and those who want to create the home of their dreams from scratch at a very competitive price.\n\n📞 Contact us to receive more information or arrange a visit. Discover all the potential that this home hides.\nLocation: The house is located in Lleida. Condition of the property: To be renovated. Constructed area: 82 m2. Useful area: 71 m2. Energy certificate reference: exempt. The total sale price is €93,500 (taxes and expenses not included). ITP: current rate. Notarial and registration expenses according to tariff. AICAT Registration: 3026. API No.: 17,621/191. Grand holder condition of the owner: NO.",
+    "images": [
+      "https://static.fotocasa.es/images/ads/5639bd08-554c-456f-a233-fa583396ba8e?rule=original",
+      "https://static.fotocasa.es/images/ads/1c3bac79-5f3b-4406-9a71-f8d9d616ca7a?rule=original",
+      "https://static.fotocasa.es/images/ads/e11902ce-74ff-44e5-8cf5-272a9cfb151e?rule=original",
+      "https://static.fotocasa.es/images/ads/2d45313e-50b3-4b63-928a-548a5da0cca7?rule=original",
+      "https://static.fotocasa.es/images/ads/491aa11d-2395-4a1c-a7bc-0068869b823e?rule=original",
+      "https://static.fotocasa.es/images/ads/990d5147-f400-42ae-ae1b-1db0e1f84a0a?rule=original",
+      "https://static.fotocasa.es/images/ads/e1be379d-6268-414e-9366-b434253b6727?rule=original",
+      "https://static.fotocasa.es/images/ads/db70e193-b3f3-43bb-a84e-6babd54f2a13?rule=original",
+      "https://static.fotocasa.es/images/ads/60faacda-d231-4aad-af4d-b651dfb25880?rule=original",
+      "https://static.fotocasa.es/images/ads/bd0a31fc-ffcf-47c0-87d1-4a877064dcd7?rule=original",
+      "https://static.fotocasa.es/images/ads/617dfdb1-abd6-4eab-ba0b-3e1d7ddd6819?rule=original",
+      "https://static.fotocasa.es/images/ads/3a1c7323-93f2-4d9e-995b-2b5ea91008c6?rule=original",
+      "https://static.fotocasa.es/images/ads/40bb22bc-2217-4101-8170-f130a760effd?rule=original",
+      "https://static.fotocasa.es/images/ads/fae095a2-7248-4186-acfc-191820058756?rule=original",
+      "https://static.fotocasa.es/images/ads/0e6ab1ef-87df-4a80-b95a-608a33510687?rule=original",
+      "https://static.fotocasa.es/images/ads/1e8c437f-9704-4d27-9589-69d9d97cdcb2?rule=original",
+      "https://static.fotocasa.es/images/ads/53eaa27a-4fe6-42d3-af8d-515bb5ea1575?rule=original",
+      "https://static.fotocasa.es/images/ads/f5d6bcc6-22cf-4e7c-bf8c-80fab58e7f7a?rule=original",
+      "https://static.fotocasa.es/images/ads/f8572a48-d7a3-49a2-86e2-b5ab39721170?rule=original"
+    ],
+    "total_images": 19,
+    "publisher": {
+      "name": "GRUP90 ADVOCATS I ASSESSORS S.L",
+      "alias": "GRUP 90",
+      "id": 9202751685602,
+      "phone": "+34973208611",
+      "reference": "25-5-07557",
+      "logo": "https://static.fotocasa.es/images/client/ffcffa0d-cf63-4b43-ab56-df21b8a94984/20250905101656?rule=original",
+      "url": "/en/real-estate-agency-grup-90/buy/homes/espana/all-zones/l?clientId=9202751685602&publisherId=ffcffa0d-cf63-4b43-ab56-df21b8a94984",
+      "type": "professional"
+    },
+    "agency": {
+      "name": "GRUP90 ADVOCATS I ASSESSORS S.L",
+      "alias": "GRUP 90",
+      "id": "9202751685602",
+      "logo": "https://static.fotocasa.es/images/client/ffcffa0d-cf63-4b43-ab56-df21b8a94984/20250905101656?rule=original",
+      "type": "professional"
+    },
+    "language_urls": {
+      "es_ES": "/es/comprar/vivienda/lleida-capital/ascensor/190282563/d",
+      "en_US": "/en/buy/home/lleida-capital/lift/190282563/d",
+      "ca_ES": "/ca/comprar/vivenda/lleida-capital/ascensor/190282563/d",
+      "de_DE": "/de/kaufen/wohnimmobilie/lleida-capital/fahrstuhl/190282563/d"
+    },
+    "breadcrumb": [
+      "Lleida",
+      "Segrià",
+      "Lleida Capital",
+      "Cappont"
+    ],
+    "description_translated": "🏡 Apartment opportunity to renovate in the heart of Cappont\n\nAre you looking for a home to renovate to your liking or an excellent investment opportunity? This apartment, located in one of the most sought-after areas of Lleida, has enormous potential to become a unique home.\n\nLocated in the heart of Cappont, the home needs a comprehensive renovation, which will allow you to design and personalize each space according to your needs and style.\n\n✨ Distribution\n\n✅ Living room with access to a balcony.\n\n✅ Independent kitchen.\n\n✅ 3 bedrooms.\n\n✅ 1 full bathroom.\n\n✅ Practical independent pantry.\n\n🌟 Why does this home stand out?\n\n✔️ Completely exterior, with an excellent entry of natural light.\n\n✔️ High ceilings that provide spaciousness and personality.\n\n✔️ Great renovation potential to create a modern and functional home.\n\n✔️ Privileged location, in the heart of Cappont.\n\n📍 A location to enjoy\n\nA few minutes from the university, surrounded by supermarkets, schools, shops, green areas and public transport. A consolidated area that offers all the necessary services for daily life.\n\n💡 Ideal for both investors and those who want to create the home of their dreams from scratch at a very competitive price.\n\n📞 Contact us to receive more information or arrange a visit. Discover all the potential that this home hides.\nLocation: The house is located in Lleida. Condition of the property: To be renovated. Constructed area: 82 m2. Useful area: 71 m2. Energy certificate reference: exempt. The total sale price is €93,500 (taxes and expenses not included). ITP: current rate. Notarial and registration expenses according to tariff. AICAT Registration: 3026. API No.: 17,621/191. Grand holder condition of the owner: NO.",
+    "extras_original": [
+      "Ascensor",
+      "Balcón"
+    ],
+    "downloaded_images": [
+      "images\\property_190282563\\image_001.webp",
+      "images\\property_190282563\\image_002.webp",
+      "images\\property_190282563\\image_003.webp",
+      "images\\property_190282563\\image_004.webp",
+      "images\\property_190282563\\image_005.webp",
+      "images\\property_190282563\\image_006.webp",
+      "images\\property_190282563\\image_007.webp",
+      "images\\property_190282563\\image_008.webp",
+      "images\\property_190282563\\image_009.webp",
+      "images\\property_190282563\\image_010.webp",
+      "images\\property_190282563\\image_011.webp",
+      "images\\property_190282563\\image_012.webp",
+      "images\\property_190282563\\image_013.webp",
+      "images\\property_190282563\\image_014.webp",
+      "images\\property_190282563\\image_015.webp",
+      "images\\property_190282563\\image_016.webp",
+      "images\\property_190282563\\image_017.webp",
+      "images\\property_190282563\\image_018.webp",
+      "images\\property_190282563\\image_019.webp"
+    ]
+  }
+}
